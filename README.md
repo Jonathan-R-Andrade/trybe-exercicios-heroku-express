@@ -1,5 +1,5 @@
 # Exercícios do dia 25.1
-_Clique [aqui](https://github.com/JonathanRei5/trybe-exercicios/tree/main/modulo-03-desenvolvimento-back-end/bloco-25-deployment/dia-01-infraestrutura-deploy-com-heroku) para ir para o repositório de exercícios._
+_Clique [aqui](https://github.com/JonathanRei5/trybe-exercicios/tree/main/modulo-03-desenvolvimento-back-end/secao-07-deployment/dia-01-infraestrutura-deploy-com-heroku) para ir para o repositório de exercícios._
 
 Link para a aplicação de produção https://heroku-express-jra-prod.herokuapp.com/
 
