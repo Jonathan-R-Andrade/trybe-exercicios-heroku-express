@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JonathanRei5/trybe-exercicios.git"
+    "url": "git+https://github.com/Jonathan-R-Andrade/trybe-exercicios.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JonathanRei5/trybe-exercicios/issues"
+    "url": "https://github.com/Jonathan-R-Andrade/trybe-exercicios/issues"
   },
-  "homepage": "https://github.com/JonathanRei5/trybe-exercicios#readme",
+  "homepage": "https://github.com/Jonathan-R-Andrade/trybe-exercicios#readme",
   "dependencies": {
     "express": "^4.18.1"
   }
